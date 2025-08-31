@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhojit534&label=Profile%20views&color=0e75b6&style=flat" alt="subhojit534" /> </p>
 
-- 🌱 I’m currently learning **Figma, HTML, CSS, DSA etc**
+- 🌱 I’m currently learning **Quantum Computing, Figma etc**
 
 - 💬 Ask me about **Quantum computing**
 
